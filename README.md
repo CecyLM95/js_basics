@@ -2,7 +2,9 @@
 
 Repositorio con ejercicios básicos de js
 
-## 1. JS Golden Rules ✅
+# 0. Introducción
+
+## 0.1. JS Golden Rules ✅
 
 1. Las instrucciones en Javascript deben terminan en punto y coma. (Aunque no es obligatorio)
 2. Uso de decimales en Javascript. Los números en Javascript que tengan decimales utilizarán el punto como separador de las unidades con la parte decimal.
@@ -17,11 +19,11 @@ Repositorio con ejercicios básicos de js
 9. Los identificadores en Javascript comienzan por una letra o la barra baja (\_) o el símbolo del dólar ($).
 10. Javascript es sensible a las mayúsculas y las minúsculas (case-sensitive)
 
-## 2. Tipos de datos en JS
+## 0.2. Introducción a los tipos de datos en JS
 
-En javascript, al igual que en muchos lenguajes de programación, los diferentes tipos de datos son los siguientes:
+En javascript, al igual que en muchos lenguajes de programación, los diferentes tipos de datos primitivos son los siguientes:
 
--   **String**: son cadenas de de uno o varios caracteres. Pueden ir con espacios y
+-   **String**: son cadenas de de uno o varios caracteres. Pueden ir con espacios y siempre entre comillas simples o dobles. Ej: `"Esto es un string"`
 -   **Number**: a su vez se pueden dividir en:
     -   **Integers**: números enteros
     -   **Float**: numeros decimales, el decimal es necesario indicarlo con el punto. Ej: `23.64`
@@ -29,7 +31,7 @@ En javascript, al igual que en muchos lenguajes de programación, los diferentes
 -   **undefined**: si no se le asigna un valor a una variable, javascript devuelve que el valor no está definido.
 -   **Null**: si una variable se le ha asignado un valor, pero vacío, js lo va a reconocer como un dato de tipo null
 
-## 3. Variables y constantes
+## 0.3. Variables y constantes
 
 Existen 3 palabras reservadas en javascript para asignar un valor a un espacio de memoria:
 
@@ -92,7 +94,7 @@ year2020;
 year_2020;
 ```
 
-## 4. Comentarios
+## 0.4. Comentarios
 
 En javascript se pueden dejar comentarios en linea o comentarios de bloque
 
@@ -106,3 +108,5 @@ Esto es un comentario
 de varias líneas
 */
 ```
+
+# 1. Tipos de datos
