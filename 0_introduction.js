@@ -1,4 +1,4 @@
-console.log("0.datatypes: 👋 Bienvenidos, en este fichero se harán ejercicios sobre los tipos de datos");
+console.log("0.datatypes: 👋 Bienvenidos, en este fichero se harán ejercicios básicos introductorios a Javascript");
 
 //Crear una variable para almacenar tu nombre
 var nombre = "Cecilia";
